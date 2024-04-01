@@ -8,7 +8,7 @@ class VuePlat extends Vue
 
 		$this->titre= 'Plat';
 
-		$this->contenu = '';
+		$this->contenu = '<h1>Page Plat</h1>';
 
 
 	}

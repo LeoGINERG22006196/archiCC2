@@ -8,7 +8,7 @@ class VueMenu extends Vue
 
 		$this->titre= 'Menu';
 
-		$this->contenu = '';
+		$this->contenu = '<h1>Page Menu</h1>';
 
 
 	}
